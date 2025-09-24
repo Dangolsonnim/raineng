@@ -1,0 +1,8 @@
+python
+teacher
+student
+education
+computer
+anaconda
+github
+game
